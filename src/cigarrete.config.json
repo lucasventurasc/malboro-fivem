@@ -1,0 +1,22 @@
+{
+  "gudang": {
+    "anim": "WORLD_HUMAN_SMOKING_POT",
+    "screenEffect": "RampageOut"
+  },
+  "malboro": {
+    "anim": "WORLD_HUMAN_SMOKING",
+    "screenEffect": ""
+  },
+  "derby": {
+    "anim": "WORLD_HUMAN_AA_SMOKE",
+    "screenEffect": "RaceTurbo"
+  },
+  "dunhill": {
+    "anim": "WORLD_HUMAN_PROSTITUTE_HIGH_CLASS",
+    "screenEffect": "RaceTurbo"
+  },
+  "malboromarijuana": {
+    "anim": "WORLD_HUMAN_SMOKING_POT",
+    "screenEffect": "DrugsMichaelAliensFightOut"
+  }
+}
