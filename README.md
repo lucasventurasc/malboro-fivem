@@ -11,9 +11,9 @@ npm run build
 
 ## First install?
 
-Create the folder 'resources/malboro' on your server.
-Copy index.js and server.js to 'resources/malboro/dist'
-Copy fxmanifest.lua to 'resources/malboro'
+* Create the folder 'resources/malboro' on your server.
+* Copy index.js and server.js to 'resources/malboro/dist'
+* Copy fxmanifest.lua to 'resources/malboro'
 
 ## Updating
 
